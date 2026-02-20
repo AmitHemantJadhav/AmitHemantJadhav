@@ -1,160 +1,96 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                     AMIT JADHAV — GITHUB PROFILE                     -->
-<!--  Auto-updates via GitHub Actions • Live stats • Zero hardcoded data  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Amit%20Jadhav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Builder%20%7C%20ML%20Engineer%20%7C%20Founder&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
-<br/>
-
-<!-- DYNAMIC TYPING SVG — auto-rotates your identity -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=40&lines=CS+%40+Purdue+Fort+Wayne+('27);AI+%26+Perception+Lead+%E2%80%94+NASA+Lunabotics;Founder+of+Prepify+%7C+BackStory+%7C+Sena;Building+at+the+intersection+of+Voice+%2B+AI;Patent+Holder+%7C+Hackathon+Champion" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/-amithjadhav-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithjadhav)
-[![GitHub](https://img.shields.io/badge/-AmitHemantJadhav-181717?style=flat&logo=github&logoColor=white)](https://github.com/AmitHemantJadhav)
-[![Gmail](https://img.shields.io/badge/-Email_Me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amitjadhav2111@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=AmitHemantJadhav&color=58A6FF&style=flat&label=visitors)](https://github.com/AmitHemantJadhav)
-
-</div>
-
----
-
-## `$ cat about_me.json`
-
-```jsonc
-{
-  "name": "Amit Hemant Jadhav",
-  "location": "Fort Wayne, IN 🇺🇸  ↔  Nashik, MH 🇮🇳",
-  "education": {
-    "university": "Purdue University Fort Wayne",
-    "degree": "B.S. Computer Science — Machine Learning Focus",
-    "graduation": 2027
-  },
-  "current_roles": [
-    "AI & Perception Lead — NASA Lunabotics (PFW's 1st ever team)",
-    "ML Team Lead — Random Forest @ BASF",
-    "Founder — Prepify, BackStory, Sena"
-  ],
-  "highlights": [
-    "🏆 Patent Holder — Hydrogen-based Diya (lamp) design",
-    "🏆 $1,000+ in Hackathon Prizes",
-    "🏆 Case Competition Champion — Fall 2023",
-    "📉 Built ML system that cut manual conversion by 60% @ CCTech"
-  ],
-  "languages_spoken": ["English", "Hindi", "Marathi", "German"],
-  "fun_fact": "I listen to Hanuman Chalisa on repeat during flights ✈️🙏"
-}
+```
+ █████╗ ███╗   ███╗██╗████████╗         ██╗ █████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗
+██╔══██╗████╗ ████║██║╚══██╔══╝         ██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██║   ██║
+███████║██╔████╔██║██║   ██║            ██║███████║██║  ██║███████║███████║██║   ██║
+██╔══██║██║╚██╔╝██║██║   ██║       ██   ██║██╔══██║██║  ██║██╔══██║██╔══██║╚██╗ ██╔╝
+██║  ██║██║ ╚═╝ ██║██║   ██║       ╚█████╔╝██║  ██║██████╔╝██║  ██║██║  ██║ ╚████╔╝ 
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝        ╚════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝ 
 ```
 
----
+**Builder. ML Engineer. Founder.**
 
-## ⚡ Tech Arsenal
+West Lafayette, IN | CS & Mathematics (Honors) at Purdue University | Class of 2027
+Concentration in Machine Learning & Software Engineering
 
-<div align="center">
-
-<!-- LANGUAGES -->
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java&theme=dark" alt="Languages" />
-
-<br/>
-
-<!-- AI / ML -->
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" alt="AI/ML" />
-<img src="https://img.shields.io/badge/YOLOv9-00FFFF?style=for-the-badge&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- FRONTEND -->
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Frontend" />
-
-<br/>
-
-<!-- BACKEND & CLOUD -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,aws,gcp,docker,firebase,vercel&theme=dark" alt="Backend & Cloud" />
-
-<br/>
-
-<!-- TOOLS & PROTOCOLS -->
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" alt="Tools" />
-<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Vapi-5046E5?style=for-the-badge&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logoColor=white" height="30"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amithjadhav-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithjadhav)
+[![GitHub](https://img.shields.io/badge/GitHub-AmitHemantJadhav-000?style=flat-square&logo=github&logoColor=white)](https://github.com/AmitHemantJadhav)
+[![Email](https://img.shields.io/badge/Email-jadhah01@pfw.edu-000?style=flat-square&logo=gmail&logoColor=white)](mailto:jadhah01@pfw.edu)
 
 </div>
 
 ---
 
-## 🚀 What I'm Building
+### About
 
-> *I don't just build projects — I build products that solve real problems for real people.*
+I build things at the intersection of machine learning, voice AI, and systems engineering — then ship them.
+
+Currently the **Software & Autonomous Systems Lead for NASA Lunabotics** at PFW (our university's first-ever team), **ML Team Lead at BASF through Purdue DataMine**, and the **Founder of Prepify** — a voice-first AI interview platform headed to Y Combinator.
+
+Before this, I spent a summer at **CCTech** building production ML pipelines that replaced weeks of manual engineering work with sub-200ms inference calls. I hold a **patent for a hydrogen-based diya design**, have won **$1,000+ in hackathon prizes**, and speak four languages.
+
+I don't build demos. I build products.
+
+---
+
+### Experience
+
+**Machine Learning Intern — Centre for Computational Technologies (CCTech)**
+`May 2024 – Aug 2024`
+
+Designed and deployed an end-to-end **Floorplan Detection System** that converts architectural PDFs into structured CAD-ready geometry — eliminating ~60% of manual drafting time across the pipeline.
+
+Built the full ML stack: fine-tuned **YOLOv9** for element detection (+20% accuracy), developed OCR pipelines with **Tesseract** for tabular/image-heavy documents (+15% extraction accuracy), and integrated **OpenCV** for geometric preprocessing. Deployed as serverless inference on **AWS Lambda + API Gateway + S3**, sustaining p50 ~200ms / p95 <350ms at 100+ concurrent requests. Hardened the system with input validation, circuit-breaker retries, and dead-letter queues — zero data-loss incidents post-launch. CloudWatch-driven tuning reduced infrastructure costs by 15%.
+
+`Python` `OpenCV` `YOLOv9` `Tesseract` `AWS Lambda` `API Gateway` `S3` `CloudWatch`
+
+---
+
+### What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Prepify — *AI Interview Coach*
-> **Voice-first mock interview platform** that conducts real conversations, then generates rubric-based reports with speech analytics.
+#### Prepify
 
-- Fine-tuned **Whisper** for speech pattern analysis (pace, filler words, clarity)
-- Custom **video analysis models** for body language & eye contact scoring
-- **Gemini 2.0 Flash** for personalized question generation from resume + JD
-- Serverless architecture: **AWS Lambda + SQS + DynamoDB + S3**
-- Full reporting engine with **PDF export** and progress tracking
+**Voice-first AI interview platform — B2C + B2B**
 
-`Next.js 15` `Vapi` `Gemini` `Whisper` `NVIDIA Canary` `AWS` `Neon PostgreSQL` `Clerk`
+This isn't another chatbot that asks you questions. Prepify conducts real, adaptive voice interviews powered by **Vapi + Gemini**, then generates comprehensive performance reports with multi-modal analysis.
 
-*Applying to Y Combinator • B2C + B2B platforms*
+The system fine-tunes **Whisper** and **NVIDIA Canary** models to analyze speech patterns — pace, filler words, clarity, confidence. A separate video analysis pipeline scores body language and eye contact. Questions are dynamically generated from your resume, job description, role, and experience level using advanced prompt engineering with **Gemini 2.0 Flash**.
 
-</td>
-<td width="50%" valign="top">
+The backend is a fault-tolerant event-driven architecture on **AWS (Lambda, API Gateway, S3, SQS)** with **Neon PostgreSQL + Drizzle ORM**, featuring idempotent jobs, rate limiting, retries, structured logging, and crash-safe session state. The platform handles 200+ concurrent sessions at p95 <250ms round-trip audio latency.
 
-### 🚍 PFW Shuttle App — *Campus Transit, Reimagined*
-> **Real-time shuttle tracking** for Purdue Fort Wayne — the Uber-like experience students deserve.
+The B2B platform lets companies create standardized interview kits with rubric-based evaluation, send single-use candidate links, and compare candidates at scale — replacing the first round of human interviews entirely.
 
-- **Live GPS tracking** with WebSocket broadcasts via **Ably**
-- ETA calculation engine using distance, speed & route geometry
-- Driver console with shift management & anti-spoofing GPS
-- Student UI with route selection, stop lists & arrival predictions
-- Premium **Apple/Google/Uber-level** design language
+Currently applying to **Y Combinator**.
 
-`React Native (Expo)` `Node.js` `Express` `MongoDB` `Ably` `Clerk` `Google Maps API`
-
-*Built with teammate Shaurya • Serving PFW campus*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📖 [BackStory](https://github.com/AmitHemantJadhav/backstory-v2) — *Voice-First Founder Storytelling*
-> Helps founders articulate their origin story through **guided voice conversations** — turning raw narratives into compelling pitches.
-
-- Voice-powered narrative extraction using **Vapi**
-- Story structuring & pitch generation via **Gemini**
-- Built for the **Vapi Build Challenge 2025**
-
-`JavaScript` `Vapi` `Gemini` `Voice AI`
+`Next.js 15` `TypeScript` `Vapi` `Gemini` `Whisper` `NVIDIA Canary` `AWS Lambda` `SQS` `S3` `Neon PostgreSQL` `Drizzle ORM` `Clerk` `Stripe`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧘 [Sena](https://github.com/AmitHemantJadhav/Sena) — *Voice Mental Wellness Companion*
-> An empathetic AI companion with a **futuristic glassmorphism dark UI** — voice-first emotional check-ins and mental health support.
+#### NASA Lunabotics
 
-- Conversational AI for emotional wellbeing
-- Futuristic dark-themed **glassmorphism** interface
-- Submitted to **NextStep Hacks 2025**
+**Autonomous lunar excavation rover — Software & Systems Lead**
 
-`JavaScript` `Voice AI` `Glassmorphism UI`
+I lead the entire software stack for **PFW's first-ever NASA Lunabotics team** — building a rover that autonomously navigates, excavates, and constructs berms on a simulated lunar surface. The competition scores heavily on autonomy (600 points for full autonomous operation), and every collision with a rock or crater costs 30 points. Perception isn't optional — it's the difference between winning and losing.
+
+**Perception stack:** LiDAR point cloud processing for crater detection using elevation grid analysis and depression thresholding. Rock detection through 3D clustering with **YOLOv9** depth fusion as a secondary pipeline. All perception outputs publish as ROS2 topics (`OccupancyGrid`, `PointCloud2`) that feed directly into Nav2's costmap layers.
+
+**Navigation:** Full **ROS2 Humble + Nav2 + BehaviorTree.CPP** autonomy stack running on a **Jetson Orin Nano**. Path planning with obstacle inflation, GPS-denied localization, and multi-cycle autonomous operation.
+
+**Telemetry & Control:** Real-time telemetry dashboard, driver fallback systems, and hardware integration across embedded controllers.
+
+The team includes four software leads (AI/Perception, Navigation, Telemetry, Firmware) plus mechanical and systems engineers. I coordinate the full software architecture and integration across all subsystems.
+
+**Competition: May 2026 at Kennedy Space Center.**
+
+`Python` `ROS2 Humble` `Nav2` `BehaviorTree.CPP` `OpenCV` `Open3D` `YOLOv9` `Jetson Orin Nano` `LiDAR`
 
 </td>
 </tr>
@@ -162,26 +98,32 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 [CodeSense](https://github.com/AmitHemantJadhav/CodeSense) — *AI GitHub Assistant*
-> **RAG-powered code assistant** that understands your entire codebase — ask questions, get contextual answers from your actual repository.
+#### PFW Shuttle App
 
-- Retrieval-Augmented Generation pipeline for 10K+ file repos
-- Real-time collaboration features
-- Vector embeddings for semantic code search
+**Real-time campus transit tracking system**
 
-`TypeScript` `LangChain` `RAG` `GitHub API` `T3 Stack`
+PFW had no shuttle tracking system — students had no idea where the shuttle was or when it would arrive. We built the solution from scratch.
+
+The driver app broadcasts GPS pings over **Ably** WebSockets. The backend processes these in real-time, computing ETAs using distance-to-stop, average shuttle speed, and route geometry through a background worker that runs continuous calculation cycles. Students see live shuttle positions on a map with arrival predictions, route selection, and stop lists.
+
+Built with anti-spoofing GPS validation, driver shift management, and a UI designed to match the quality bar of Apple Maps and Uber — not a college side project.
+
+`React Native (Expo)` `TypeScript` `Node.js` `Express` `MongoDB` `Ably` `Clerk` `Google Maps API`
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [OpenCV MCP](https://github.com/AmitHemantJadhav/opencv-mcp) — *Computer Vision for AI Agents*
-> **MCP Server** that bridges OpenCV's image processing power with AI assistants via the Model Context Protocol.
+#### [CodeSense](https://github.com/AmitHemantJadhav/CodeSense)
 
-- Edge detection, thresholding, contour analysis
-- Object detection & tracking capabilities
-- Plug-and-play with Claude, GPT, and other LLMs
+**AI-powered codebase intelligence**
 
-`JavaScript` `MCP` `OpenCV` `AI Tooling`
+A semantic code search and Q&A engine that actually understands your repository. Handles 500K+ lines of code across 10K+ file monorepos using **AST-aware chunking** — not naive text splitting — combined with **LangChain**, **OpenAI embeddings**, and a hybrid retrieval engine (Pinecone vector index + PostgreSQL metadata).
+
+Features incremental indexing via GitHub webhooks, query caching, multi-turn conversational debugging, and cross-conversation memory powered by **AssemblyAI** for meeting transcription and retrieval. Responses deep-link to the exact file and line.
+
+Deployed on a **T3 stack** (Next.js, Prisma, PostgreSQL, AWS Lambda) with Clerk OAuth, Stripe credit-based monetization, and CI/CD via GitHub Actions. Median query latency ~180ms, p95 <400ms, 99.9% uptime.
+
+`TypeScript` `Next.js` `LangChain` `Pinecone` `OpenAI` `Prisma` `PostgreSQL` `AWS Lambda` `AssemblyAI` `Stripe`
 
 </td>
 </tr>
@@ -189,30 +131,81 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 RecallOS — *AI Audio Memory System*
-> **Multi-agent system** that doesn't just transcribe — it *remembers*, discovers patterns, and tracks insights across all your conversations.
+#### [BackStory](https://github.com/AmitHemantJadhav/backstory-v2)
 
-- Cross-conversation pattern detection (novel feature)
-- Speaker engagement tracking & timeline analysis
-- 7 Google Cloud services integrated
-- Built for the **Google Cloud Run Hackathon**
+**Voice-first storytelling tool for founders**
 
-`Python` `Google Cloud Run` `Gemini` `Firestore` `Embeddings API`
+Most founders can't articulate their origin story clearly. BackStory fixes that through guided voice conversations that extract, structure, and refine raw narratives into compelling pitches.
+
+Built with **Vapi SDK** for real-time voice streaming/transcription and **Gemini** for dynamic narrative generation with emotional tone modeling. The prompt engine features rolling memory, intent detection, and adaptive follow-up logic — maintaining context across 30-minute sessions with p95 <300ms latency.
+
+Includes crash-safe session resume, transcript checkpointing, backpressure handling, structured observability (logs/metrics/traces), and CI/CD with automated testing.
+
+Built for the **Vapi Build Challenge 2025**.
+
+`JavaScript` `Vapi SDK` `Gemini` `React` `TypeScript` `Tailwind CSS` `ShadCN UI`
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 NASA Lunabotics — *Lunar Rover Perception*
-> **AI & Perception Lead** for PFW's first-ever NASA Lunabotics team — building the "eyes" of an autonomous lunar excavation rover.
+#### [OpenCV MCP Server](https://github.com/AmitHemantJadhav/opencv-mcp)
 
-- Crater detection via LiDAR point cloud analysis
-- Rock detection: 3D clustering + YOLOv9 depth fusion
-- ROS2 Humble + Nav2 on Jetson Orin Nano
-- **Full autonomy = 600 pts** (the winning formula)
+**Computer vision capabilities for AI agents**
 
-`Python` `ROS2` `Nav2` `OpenCV` `Open3D` `Jetson Orin Nano`
+An MCP (Model Context Protocol) server that gives AI assistants like Claude and GPT access to real **OpenCV** computer vision operations — edge detection, thresholding, contour analysis, object detection, and tracking.
 
-*Competition: May 2026 @ Kennedy Space Center*
+Instead of AI models describing what they'd do with an image, they can actually process it. The server exposes OpenCV's full image and video processing pipeline through MCP's standardized tool interface, making computer vision a plug-and-play capability for any MCP-compatible AI system.
+
+`JavaScript` `OpenCV` `Model Context Protocol`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### RecallOS
+
+**Multi-agent AI audio memory system**
+
+Most transcription tools analyze one recording at a time. RecallOS analyzes patterns *across* all your conversations — tracking speaker engagement evolution, topic timelines, decision patterns, and cross-conversation insights that no single transcript could reveal.
+
+Built as a multi-agent system on **Google Cloud Run** with 7 integrated GCP services: Cloud Storage, Firestore, Gemini 2.0 Flash, Google Embeddings API, Cloud Logging, and more. Each agent handles a specific domain (transcription, embedding, pattern detection, insight synthesis) and coordinates through an orchestration layer.
+
+Built for the **Google Cloud Run Hackathon**.
+
+`Python` `Google Cloud Run` `Gemini` `Firestore` `Embeddings API` `Cloud Storage`
+
+</td>
+<td width="50%" valign="top">
+
+#### Collaborative Code Editor
+
+**Real-time multi-user editing with conflict resolution**
+
+A Google Docs-style code editor supporting simultaneous multi-user editing with zero conflicts. Implemented **CRDTs** (Conflict-free Replicated Data Types) for mathematically guaranteed consistency and **WebSocket** connections for real-time synchronization across all connected users.
+
+Features syntax highlighting for multiple programming languages, user session management, and autosave via **AWS Lambda** with low-latency backups to **DynamoDB**.
+
+Deployed with **Kubernetes** and **Docker** for horizontal scalability and fault tolerance under high concurrent traffic.
+
+`Next.js` `WebSockets` `CRDTs` `Node.js` `AWS Lambda` `Kubernetes` `Docker` `DynamoDB`
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+#### RT-DETRv2 — Enhanced Object Detection for Autonomous Vehicles
+
+**Research Symposium Presentation**
+
+Optimized a transformer-based real-time detection architecture (RT-DETRv2) for autonomous driving scenarios. Fine-tuned on the **BDD100K** dataset with augmentation strategies, achieving **2.7% higher mAP** and **7.8% improvement in critical object detection** (pedestrians, cyclists, small vehicles) while maintaining **88 FPS** inference speed.
+
+Built a distributed training pipeline using **AWS EC2** (P4d instances), **NVIDIA DALI** for GPU-accelerated data loading, **PyTorch** with mixed precision training, and experiment tracking via **Weights & Biases**. The work demonstrated that targeted fine-tuning of transformer detectors can meaningfully improve safety-critical detection without sacrificing real-time performance.
+
+`PyTorch` `RT-DETRv2` `NVIDIA DALI` `BDD100K` `AWS EC2` `Weights & Biases` `Docker` `CUDA` `DVC`
 
 </td>
 </tr>
@@ -220,76 +213,41 @@
 
 ---
 
-## 💼 Experience
+### Tech
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  ROLE                          │ ORG                    │ WHEN          │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🤖 AI & Perception Lead      │ NASA Lunabotics @ PFW  │ 2025 – Now   │
-│     Building autonomous rover perception with ROS2 + LiDAR + Nav2      │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🌲 ML Team Lead              │ Random Forest @ BASF   │ 2025 – Now   │
-│     Leading ML initiatives and cross-functional team coordination       │
-├──────────────────────────────────────────────────────────────────────────┤
-│  🏗️ ML Engineering Intern     │ CCTech                 │ Summer 2024  │
-│     Floorplan Detection System — OpenCV + YOLOv9                       │
-│     → 60% reduction in manual conversion time                          │
-│     → 15% improvement in detection accuracy                            │
-│     → Production-deployed on AWS                                       │
-└──────────────────────────────────────────────────────────────────────────┘
+Languages        Python, TypeScript, JavaScript, C, C++, Java, SQL
+ML / CV          PyTorch, TensorFlow, OpenCV, YOLOv9, Whisper, LangChain, Scikit-learn
+LLMs / AI        Gemini, OpenAI, Vapi, RAG pipelines, Vector Embeddings, Prompt Engineering
+Frontend         React, Next.js 15, Tailwind CSS, ShadCN UI, React Native (Expo)
+Backend          Node.js, Express, tRPC, Drizzle ORM, Prisma, WebSockets
+Databases        PostgreSQL, MongoDB, Redis, Firebase, Pinecone, DynamoDB
+Cloud            AWS (Lambda, S3, SQS, EC2, API Gateway, CloudWatch), GCP (Cloud Run, Firestore)
+Robotics         ROS2, Nav2, BehaviorTree.CPP, Open3D, LiDAR, Jetson Orin Nano
+DevOps           Docker, Kubernetes, GitHub Actions, CI/CD, Serverless Architecture
+Tools            Git, Figma, Postman, Stripe, Clerk, Weights & Biases
 ```
 
 ---
 
-## 📊 GitHub Analytics
+### Highlights
 
-<!-- ═══ ALL STATS BELOW ARE LIVE — they pull directly from GitHub's API ═══ -->
-<!-- No hardcoded numbers. These update automatically every time someone visits. -->
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmitHemantJadhav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitHemantJadhav&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<!-- STREAK — live from GitHub contribution data -->
-<img src="https://streak-stats.demolab.com/?user=AmitHemantJadhav&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- TROPHY SHELF — auto-generated from GitHub achievements -->
-<img src="https://github-profile-trophy.vercel.app/?username=AmitHemantJadhav&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION ACTIVITY GRAPH — live rendering -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmitHemantJadhav&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" />
-
----
-
-## 🐍 Contribution Snake
-
-<!-- Auto-generated via GitHub Actions — see setup instructions below -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmitHemantJadhav/AmitHemantJadhav/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmitHemantJadhav/AmitHemantJadhav/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/AmitHemantJadhav/AmitHemantJadhav/output/github-snake-dark.svg" />
-</picture>
-</div>
+```
+Patent Holder                 Hydrogen-based Diya (lamp) — issued patent for sustainable design
+Hackathon Champion            $1,000+ in prizes across Google GenAI, AWS Barrier Breakers, and more
+Case Competition Champion     1st place among 20+ teams — Purdue Fort Wayne, Fall 2023
+NASA Lunabotics Lead          Building PFW's first-ever competition entry for Kennedy Space Center 2026
+Y Combinator Applicant        Prepify — voice-first AI interview platform
+ML Team Lead @ BASF           Leading supervised ML initiatives through Purdue DataMine
+Languages                     English, Hindi, Marathi, German
+```
 
 ---
 
 <div align="center">
 
-### ⚡ *"Build things that make people stop and ask — wait, how does this work?"*
+*"The people who are crazy enough to think they can change the world are the ones who do."* — Steve Jobs
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=100&section=footer" width="100%" />
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithjadhav)
 
 </div>
