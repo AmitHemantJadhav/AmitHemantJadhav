@@ -26,13 +26,11 @@ Concentration in Machine Learning & Software Engineering
 
 ### About
 
-I build things at the intersection of machine learning, voice AI, and systems engineering — then ship them.
+I work across the full stack and then some — frontend to backend, ML pipelines to robotics, serverless infrastructure to published research. I'm as comfortable fine-tuning a YOLO model as I am designing an event-driven backend or programming a lunar rover.
 
 Currently the **Software & Autonomous Systems Lead for NASA Lunabotics** at PFW (our university's first-ever team), **ML Team Lead at BASF through Purdue DataMine**, and the **Founder of Prepify** — a voice-first AI interview platform headed to Y Combinator.
 
 Before this, I spent a summer at **CCTech** building production ML pipelines that replaced weeks of manual engineering work with sub-200ms inference calls. I hold a **patent for a hydrogen-based diya design**, have won **$1,000+ in hackathon prizes**, and speak four languages.
-
-I don't build demos. I build products.
 
 ---
 
@@ -59,7 +57,7 @@ Built the full ML stack: fine-tuned **YOLOv9** for element detection (+20% accur
 
 **Voice-first AI interview platform — B2C + B2B**
 
-This isn't another chatbot that asks you questions. Prepify conducts real, adaptive voice interviews powered by **Vapi + Gemini**, then generates comprehensive performance reports with multi-modal analysis.
+Prepify conducts real, adaptive voice interviews powered by **Vapi + Gemini**, then generates comprehensive performance reports with multi-modal analysis.
 
 The system fine-tunes **Whisper** and **NVIDIA Canary** models to analyze speech patterns — pace, filler words, clarity, confidence. A separate video analysis pipeline scores body language and eye contact. Questions are dynamically generated from your resume, job description, role, and experience level using advanced prompt engineering with **Gemini 2.0 Flash**.
 
