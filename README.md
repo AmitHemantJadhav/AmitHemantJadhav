@@ -13,7 +13,7 @@
 
 **Builder. ML Engineer. Founder.**
 
-West Lafayette, IN | CS & Mathematics (Honors) at Purdue University | Class of 2027
+Fort Wayne, IN | CS & Mathematics (Honors) at Purdue University | Class of 2027
 Concentration in Machine Learning & Software Engineering
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-amithjadhav-000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amithjadhav)
@@ -26,7 +26,7 @@ Concentration in Machine Learning & Software Engineering
 
 ### About
 
-I work across the full stack and then some — frontend to backend, ML pipelines to robotics, serverless infrastructure to published research. I'm as comfortable fine-tuning a YOLO model as I am designing an event-driven backend or programming a lunar rover.
+I work across the full stack and then some — frontend to backend, ML pipelines to robotics, serverless infrastructure to research. I'm as comfortable fine-tuning a YOLO model as I am designing an event-driven backend or programming a lunar rover.
 
 Currently the **Software & Autonomous Systems Lead for NASA Lunabotics** at PFW (our university's first-ever team), **ML Team Lead at BASF through Purdue DataMine**, and the **Founder of Prepify** — a voice-first AI interview platform headed to Y Combinator.
 
